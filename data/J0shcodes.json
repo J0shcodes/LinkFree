@@ -1,0 +1,16 @@
+{
+  "name": "Joshua Moses",
+  "bio": "Student, Frontend web debeloper, Blockhain developer and enthusiats"
+   "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/JPhleg",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "LinkendIn",
+      "url": "linkedin.com/in/joshua-moses-4117a7209/",
+      "icon": "FaLinkedin"
+    }
+  ]
+}
